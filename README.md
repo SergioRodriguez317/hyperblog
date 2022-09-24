@@ -11,3 +11,4 @@ Un blog increible para el curso de git y github en platzi
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
+* Creado por el increible platzi team
